@@ -6,7 +6,7 @@
 The Superstore Sales Dashboard is an interactive data visualization project designed to provide actionable insights into global sales performance. This project transforms raw transactional data into a high-level executive summary, allowing stakeholders to track key performance indicators (KPIs), regional trends, and category-wise revenue distribution.
 
 ### Purpose
-The goal of this project is to analyze sales data to identify:
+The goal of this project is to analyze sales data to identify:<br>
 •	<b>Regional Performance:</b> Understanding which continents drive the most volume.<br>
 •	<b>Customer Behavior:</b> Identifying preferred payment methods and high-demand product categories.<br>
 •	<b>Revenue Trends:</b> Monitoring how revenue shifts across different product segments.<br>
