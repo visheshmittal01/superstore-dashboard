@@ -28,3 +28,13 @@ The goal of this project is to analyze sales data to identify:<br>
 • <b>Category Performance:</b>
   • <b>Funnel/Bar Chart:</b> Ranks product categories (Beauty, Electronics, Home, etc.) by total sales volume.<br>
   • <b>Line Chart:</b> Tracks total revenue trends across different categories to identify high-growth areas.
+
+---
+### 👤 Author
+<b>Vishesh Mittal</b><br>
+<a href="https://www.linkedin.com/in/visheshmittal05/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://visheshmittal01.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logoColor=white" alt="Website">
+</a>
