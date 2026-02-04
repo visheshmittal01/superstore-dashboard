@@ -13,7 +13,7 @@ The goal of this project is to analyze sales data to identify:
 •	<b>Efficiency Metrics:</b> Tracking average sales and transaction volume to gauge business health.
 
 ### Dashboard Preview
-![Dashboard Preview]https://github.com/visheshmittal01/superstore-dashboard/blob/main/Superstore%20Sales%20Dashboard.png
+![Dashboard Preview](https://github.com/visheshmittal01/superstore-dashboard/blob/main/Superstore%20Sales%20Dashboard.png)
 
 ### Tools Used
 •	<b>Power BI Desktop:</b> Power BI Desktop: Used for the overall layout, design, and interactivity of the dashboard.<br>
